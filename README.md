@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ramzi Malik, a passionate Web Developer from Indonesia. Welcome to my GitHub profile!
+
 <!--
 **RamziMalik/RamziMalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
