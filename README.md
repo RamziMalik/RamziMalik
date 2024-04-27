@@ -4,7 +4,7 @@ I'm Ramzi Malik, a passionate Web Developer from Indonesia. Welcome to my GitHub
 
 ## 📫 How to reach me
 
-- Email: ramzimalik07@gmail.com(mailto:youremail@example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramzimalik@gmail.com)
 - LinkedIn: Ramzi (https://www.linkedin.com/in/yourprofile)
 - Instagram: (https://twitter.com/yourtwitter)
 
